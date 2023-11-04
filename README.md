@@ -1,4 +1,4 @@
-# ICCAD
+# QuantumLoop ICCAD2023
 
 This repository contains the code for 2023 Quantum Computing for Drug Discovery Challenge at ICCAD.
 
